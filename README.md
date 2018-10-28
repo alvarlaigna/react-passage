@@ -9,6 +9,9 @@ The idea is simple: Wrap Passage around your routes so it knows what routes have
 _Note: There may be some issues with nested react routes. [Read more here](https://github.com/dollarshaveclub/react-passage/issues/1)_.
 
 ## Installing
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dollarshaveclub/react-passage.svg)](https://greenkeeper.io/)
+
 Install via NPM:
 ```sh
 npm i @dollarshaveclub/react-passage@latest --save
